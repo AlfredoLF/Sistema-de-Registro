@@ -42,3 +42,6 @@ https://www.freecodecamp.org/espanol/news/git-checkout-explicado/
 **13** Git: Los nuevos comandos git restore y git switch
 https://www.aluracursos.com/blog/git-y-los-nuevos-comandos
 
+**14.** Open Source: Una breve introducción
+https://www.aluracursos.com/blog/open-source-una-breve-introduccion
+
