@@ -4,6 +4,9 @@
 
 **Enlaces**
 
+**0** Sintaxis de escritura y formato básicos
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 **1.** https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 **2.** Markdown: ¿cómo trabajar con este lenguaje de markup?
