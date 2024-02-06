@@ -48,3 +48,12 @@ https://www.aluracursos.com/blog/git-y-los-nuevos-comandos
 **14.** Open Source: Una breve introducción
 https://www.aluracursos.com/blog/open-source-una-breve-introduccion
 
+**15** Iniciando un repositorio con Git
+https://www.aluracursos.com/blog/iniciando-repositorio-con-git
+
+**16** Creando un repositorio remoto en Git
+Hubhttps://www.aluracursos.com/blog/creando-repositorio-remoto-en-github?utm_source=gnarus&utm_medium=timeline
+
+**17** Clonando un repositorio con Git y GitHub
+https://www.aluracursos.com/blog/clonando-un-repositorio-remoto?utm_source=gnarus&utm_medium=timeline
+
